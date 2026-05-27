@@ -38,7 +38,7 @@ The dataset also includes missing values for practicing data preprocessing techn
 ```text
 Data-Cleaning-Visualization-Project/
 │
-├── data_cleaning_project.py
+├── DataVisualisation.py
 ├── dataset.csv
 ├── README.md
 ```
@@ -66,7 +66,7 @@ pip install pandas matplotlib seaborn
 4. Run the project:
 
 ```bash
-python data_cleaning_project.py
+python DataVisualisation.py
 ```
 
 ## Learning Outcome
